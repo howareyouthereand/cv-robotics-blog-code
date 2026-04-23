@@ -16,4 +16,4 @@ pytest test_main.py -v
 
 ## Environment
 - Python 3.x
-- RTX 3080 8GB (GPU) or CPU
+- CPU
