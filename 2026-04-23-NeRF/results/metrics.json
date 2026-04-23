@@ -1,0 +1,12 @@
+{
+  "keyword": "NeRF",
+  "device": "cpu",
+  "demo": true,
+  "image_size": [
+    64,
+    64
+  ],
+  "mean": 125.8015,
+  "std": 42.3035,
+  "status": "completed"
+}
