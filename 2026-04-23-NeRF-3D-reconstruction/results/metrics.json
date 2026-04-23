@@ -1,0 +1,12 @@
+{
+  "keyword": "NeRF 3D reconstruction",
+  "device": "cpu",
+  "demo": true,
+  "image_size": [
+    64,
+    64
+  ],
+  "mean": 126.668,
+  "std": 42.8325,
+  "status": "completed"
+}
