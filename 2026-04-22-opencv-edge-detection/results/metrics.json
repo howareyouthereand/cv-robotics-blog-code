@@ -1,0 +1,12 @@
+{
+  "keyword": "OpenCV edge detection",
+  "device": "cpu",
+  "demo": true,
+  "image_size": [
+    64,
+    64
+  ],
+  "mean": 127.105,
+  "std": 42.5841,
+  "status": "completed"
+}
