@@ -1,0 +1,12 @@
+{
+  "keyword": "카메라 내부 파라미터 캘리브레이션",
+  "device": "cpu",
+  "demo": true,
+  "image_size": [
+    64,
+    64
+  ],
+  "mean": 127.9409,
+  "std": 42.2913,
+  "status": "completed"
+}
